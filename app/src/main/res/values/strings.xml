@@ -2,6 +2,7 @@
     <string name="app_name">వరి పైరు సస్యరక్షణ</string>
     <string name="action_settings">Settings</string>
     <string name="app_title"> వరి పైరు సస్యరక్షణ - మీ చేతిలో</string>
+    <string name="home_title"> వరి పైరు సస్యరక్షణ - మీ చేతిలో</string>
     <string name="rice_protection_">
 
         సుడి తెగులు /గోధుమ వర్ణపు దోమ /తెల్ల వీపు దోమ
@@ -46,4 +47,14 @@ o డెల్టామిత్రిన్, సైపర్ మిత్రి
         ]]>
     </string>
     <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_chida_purugulu">ChidaPuruguluActivity</string>
+    <string name="title_activity_chidapurugulu">చీడ పురుగులు</string>
+    <string name="label_sudi_tegulu">సుడి తెగులు / గోధుమ వర్ణపు దోమ / తెల్ల వీపు దోమ</string>
+    <string name="label_tataku_tegulu">తాటాకు తెగులు / హిస్పా</string>
+    <string name="label_kampu_nalli">కంపు నల్లి</string>
+    <string name="label_kandamu_toluchu_purugu">కాండము తొలుచు పురుగు / మొగ్గి తెగులు</string>
+    <string name="label_tella_rogamu">తెల్ల రోగము / ఆకు ముడత / నాము</string>
+    <string name="label_gottapu_rogam">గొట్టపు రోగం / ఉల్లికోడు</string>
+    <string name="label_kandamu_toluchu_purugu_">కాండము తొలుచు పురుగు / మొగ్గి తెగులు</string>
+    <string name="label_aaku_nalli">ఆకు నల్లి / బూడిద తెగులు / ఎరుపు రోగం</string>
 </resources>

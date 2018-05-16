@@ -28,11 +28,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
+        toolbar.setTitle("");
         mTextViewContent = findViewById(R.id.tv_content);
         mWebView = findViewById(R.id.webview);
         mImageViewOne = findViewById(R.id.image1);
-        getSupportActionBar().setDisplayShowTitleEnabled(false);
-        toolbar.setTitle("");
+
         mTextViewContent.setText(Html.fromHtml(getResources().getString(R.string.rice_protection)));
        /* FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
